@@ -4,7 +4,7 @@ from PIL import Image
 from keras import models
 
 #Load the saved model
-model = models.load_model('step2.h5')
+model = models.load_model('model.h5')
 video = cv2.VideoCapture(0)
 
 while True:
