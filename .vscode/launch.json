@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/capture_images.py",
+            "args": [
+                "sample_data",
+                "2000"
+            ]
+        }
+    ]
+}
