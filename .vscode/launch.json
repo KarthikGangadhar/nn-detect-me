@@ -7,8 +7,8 @@
             "request": "launch",
             "program": "${workspaceFolder}/capture_images.py",
             "args": [
-                "sample_data",
-                "2000"
+                "data/valid/1",
+                "200"
             ]
         }
     ]
